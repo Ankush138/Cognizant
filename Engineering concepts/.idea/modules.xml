@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/E-commercePlatform/E-commercePlatform.iml" filepath="$PROJECT_DIR$/E-commercePlatform/E-commercePlatform.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Engineering concepts.iml" filepath="$PROJECT_DIR$/.idea/Engineering concepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/FactoryMethodPatternExample/FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" filepath="$PROJECT_DIR$/SingletonPatternExample/SingletonPatternExample.iml" />
     </modules>
   </component>
